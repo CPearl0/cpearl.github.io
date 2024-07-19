@@ -11,15 +11,15 @@
 
 ### Mods
 
-- [Block Crafting](https://github.com/CPearl0/Block-Crafting):Make everything using blocks!
-- [Tinker's Create](https://github.com/Jasons-impart/Tinkers-Create):Add materials and tools for Tinker's Construct.
-- [Game Phase](https://github.com/CPearl0/Game-Phase):A mod providing phases to restrict the game contents.
-- [Re-Dimension Stages](https://github.com/CPearl0/Re-DimensionStages):An unofficial version of mod Dimension Stages for higher MC version.
+- [Block Crafting](https://github.com/CPearl0/Block-Crafting): Make everything using blocks!
+- [Tinker's Create](https://github.com/Jasons-impart/Tinkers-Create): Add materials and tools for Tinker's Construct.
+- [Game Phase](https://github.com/CPearl0/Game-Phase): A mod providing phases to restrict the game contents.
+- [Re-Dimension Stages](https://github.com/CPearl0/Re-DimensionStages): An unofficial version of mod Dimension Stages for higher MC version.
 
 ### Modpacks
 
-- [Create Delight](https://github.com/Jasons-impart/Create-Delight):A 1.19.2 leisurely retirement modpack, centered around the Create and the Farmer's Delight with hundred of custom recipes!
-- [GregFactory Sky](https://github.com/ProgregssTeam/GregFactory-Sky):A 1.20.1 technical lite skyblock modpack with GregTech-Modern as its major mod.
+- [Create Delight](https://github.com/Jasons-impart/Create-Delight): A 1.19.2 leisurely retirement modpack, centered around the Create and the Farmer's Delight with hundred of custom recipes!
+- [GregFactory Sky](https://github.com/ProgregssTeam/GregFactory-Sky): A 1.20.1 technical lite skyblock modpack with GregTech-Modern as its major mod.
 
 ### Teams
 
