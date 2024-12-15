@@ -30,6 +30,6 @@
 
 - [GitHub](https://github.com/CPearl0)
 - [mcmod](https://center.mcmod.cn/161878/)
-- [CurseForge](https://www.curseforge.com/members/c_pearl)
+- [CurseForge](https://www.curseforge.com/members/cpearl)
 - E-Mail: 1269596929@qq.com
 - QQ: 1269596929
