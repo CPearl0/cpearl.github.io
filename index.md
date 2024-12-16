@@ -6,7 +6,6 @@
 ### I'm CPearl
 
 - 🔗 [Main Homepage](https://cpearl0.github.io/).
-- 🔭 Undergraduate of Computer Science in EECS, Peking University, China.
 - 💻 Making mods and modpacks of Minecraft.
 - 🛠 Aim to bring more fun for high version of Minecraft.
 
@@ -19,12 +18,14 @@
 
 ### Modpacks
 
+- [Create New Horizon](https://github.com/moguang2004/Create-New-Horizon): An 1.20.1 technical modpack, focused on GregTech!
 - [Create Delight](https://github.com/Jasons-impart/Create-Delight): An 1.19.2 leisurely retirement modpack, centered around the Create and the Farmer's Delight with hundred of custom recipes!
 - [GregFactory Sky](https://github.com/ProgregssTeam/GregFactory-Sky): An 1.20.1 technical lite skyblock modpack with GregTech-Modern as its major mod.
 
 ### Teams
 
 - I am a member of [Jason's Impart](https://github.com/Jasons-impart).
+- I am a member of CTNH Team.
 
 ### Links
 
